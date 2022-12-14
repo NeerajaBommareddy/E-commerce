@@ -26,8 +26,7 @@ The admin can update and delete products.
 2.User need to fill required attributes to register. 
 3.Guest can view products. 
 4. User can view products and add to cart to buy them. 
-5. User can view the products added and ca[FinalDB.txt](https://github.com/NeerajaBommareddy/E-commerce_backend/files/10226520/FinalDB.txt)
-n add and remove products from cart before final shopping. 
+5. User can view the products added and can add and remove products from cart before final shopping. 
 
 MY SQL Server is used for the database operations. 
 
