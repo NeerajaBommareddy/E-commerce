@@ -31,7 +31,3 @@ n add and remove products from cart before final shopping.
 
 MY SQL Server is used for the database operations. 
 
-Below is the script and schema diagram of the database>>>>>>
-
-[FinalDB.txt](https://github.com/NeerajaBommareddy/E-commerce_backend/files/10226522/FinalDB.txt)
-![Screenshot (45)](https://user-images.githubusercontent.com/92574790/207563464-5ea5c624-8659-4c75-95fc-54960e935ef5.png)
